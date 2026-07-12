@@ -69,8 +69,20 @@
             <mxPoint y="29" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uBqx3M6_RT6ENB2wqffj-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#23445D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uBqx3M6_RT6ENB2wqffj-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720.0000000000002" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="460" />
+              <mxPoint x="605" y="460" />
+              <mxPoint x="605" y="491" />
+              <mxPoint x="721" y="491" />
+              <mxPoint x="721" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uBqx3M6_RT6ENB2wqffj-20" value="开始结束场景基类" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="490" width="140" height="164" as="geometry" />
+          <mxGeometry x="350" y="480" width="140" height="164" as="geometry" />
         </mxCell>
         <mxCell id="uBqx3M6_RT6ENB2wqffj-21" value="选择切换选项" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" parent="uBqx3M6_RT6ENB2wqffj-20">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -127,7 +139,8 @@
             <mxPoint x="410" y="660" as="sourcePoint" />
             <mxPoint x="350" y="700" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="415" y="690" />
+              <mxPoint x="420" y="651" />
+              <mxPoint x="420" y="690" />
               <mxPoint x="510" y="690" />
             </Array>
           </mxGeometry>
@@ -139,6 +152,29 @@
         </mxCell>
         <mxCell id="uBqx3M6_RT6ENB2wqffj-41" value="child" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" connectable="0" vertex="1" parent="uBqx3M6_RT6ENB2wqffj-39">
           <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uBqx3M6_RT6ENB2wqffj-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#23445D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uBqx3M6_RT6ENB2wqffj-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720.0000000000002" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uBqx3M6_RT6ENB2wqffj-42" value="游戏场景" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="910" y="480" width="140" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="uBqx3M6_RT6ENB2wqffj-43" value="蛇" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" parent="uBqx3M6_RT6ENB2wqffj-42">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="uBqx3M6_RT6ENB2wqffj-44" value="食物" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" parent="uBqx3M6_RT6ENB2wqffj-42">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="uBqx3M6_RT6ENB2wqffj-45" value="墙壁" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" parent="uBqx3M6_RT6ENB2wqffj-42">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="uBqx3M6_RT6ENB2wqffj-47" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontColor=#FFFFFF;" vertex="1" parent="uBqx3M6_RT6ENB2wqffj-42">
+          <mxGeometry y="104" width="140" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="uBqx3M6_RT6ENB2wqffj-46" value="重写更新逻辑" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" parent="uBqx3M6_RT6ENB2wqffj-42">
+          <mxGeometry y="112" width="140" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
