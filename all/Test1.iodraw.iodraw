@@ -332,10 +332,10 @@
         </mxCell>
         <mxCell id="uBqx3M6_RT6ENB2wqffj-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#23445D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uBqx3M6_RT6ENB2wqffj-43">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="1030" as="targetPoint" />
+            <mxPoint x="1210" y="1030" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="920" y="1010" />
-              <mxPoint x="951" y="1010" />
+              <mxPoint x="940" y="559" />
+              <mxPoint x="940" y="1030" />
             </Array>
           </mxGeometry>
         </mxCell>
