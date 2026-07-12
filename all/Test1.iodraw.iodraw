@@ -109,11 +109,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uBqx3M6_RT6ENB2wqffj-37" value="parent" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" connectable="0" vertex="1" parent="uBqx3M6_RT6ENB2wqffj-36">
-          <mxGeometry x="-1" relative="1" as="geometry" />
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-40" y="90" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="uBqx3M6_RT6ENB2wqffj-38" value="child" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" connectable="0" vertex="1" parent="uBqx3M6_RT6ENB2wqffj-36">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-10" y="50" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uBqx3M6_RT6ENB2wqffj-39" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#23445D;exitX=0.467;exitY=0.893;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uBqx3M6_RT6ENB2wqffj-23" target="uBqx3M6_RT6ENB2wqffj-32">
