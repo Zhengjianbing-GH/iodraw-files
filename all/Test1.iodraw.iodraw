@@ -163,11 +163,6 @@
         <mxCell id="uBqx3M6_RT6ENB2wqffj-42" value="游戏场景" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="780" y="520" width="140" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="uBqx3M6_RT6ENB2wqffj-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#23445D;" edge="1" parent="uBqx3M6_RT6ENB2wqffj-42" source="uBqx3M6_RT6ENB2wqffj-43">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uBqx3M6_RT6ENB2wqffj-43" value="蛇" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" parent="uBqx3M6_RT6ENB2wqffj-42">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
@@ -334,6 +329,16 @@
         </mxCell>
         <mxCell id="uBqx3M6_RT6ENB2wqffj-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#23445D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uBqx3M6_RT6ENB2wqffj-121" target="uBqx3M6_RT6ENB2wqffj-100">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uBqx3M6_RT6ENB2wqffj-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#23445D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uBqx3M6_RT6ENB2wqffj-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uBqx3M6_RT6ENB2wqffj-130" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" connectable="0" parent="uBqx3M6_RT6ENB2wqffj-129">
+          <mxGeometry x="0.0509" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
