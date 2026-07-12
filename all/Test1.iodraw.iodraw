@@ -346,7 +346,7 @@
         <mxCell id="uBqx3M6_RT6ENB2wqffj-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#23445D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uBqx3M6_RT6ENB2wqffj-45" target="uBqx3M6_RT6ENB2wqffj-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uBqx3M6_RT6ENB2wqffj-133" value="&amp;laquo;interface&amp;raquo;&lt;br&gt;&lt;b&gt;Name&lt;/b&gt;" style="html=1;whiteSpace=wrap;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uBqx3M6_RT6ENB2wqffj-133" value="接口&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;碰撞方法&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1150" y="880" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
