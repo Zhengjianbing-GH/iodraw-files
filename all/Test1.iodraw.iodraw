@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uBqx3M6_RT6ENB2wqffj-20" value="开始结束场景基类" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="490" width="140" height="164" as="geometry" />
+          <mxGeometry x="450" y="490" width="140" height="164" as="geometry" />
         </mxCell>
         <mxCell id="uBqx3M6_RT6ENB2wqffj-21" value="选择切换选项" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" parent="uBqx3M6_RT6ENB2wqffj-20">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -101,7 +101,7 @@
           <mxGeometry y="138" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uBqx3M6_RT6ENB2wqffj-28" value="开始场景" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="740" width="140" height="52" as="geometry" />
+          <mxGeometry x="360" y="740" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="uBqx3M6_RT6ENB2wqffj-29" value="重写显示的内容" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" parent="uBqx3M6_RT6ENB2wqffj-28">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -117,8 +117,8 @@
             <mxPoint x="180" y="690" as="sourcePoint" />
             <mxPoint x="340" y="690" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="419" y="690" />
-              <mxPoint x="330" y="690" />
+              <mxPoint x="549" y="690" />
+              <mxPoint x="430" y="690" />
             </Array>
           </mxGeometry>
         </mxCell>
