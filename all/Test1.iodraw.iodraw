@@ -154,6 +154,10 @@
         <mxCell id="uBqx3M6_RT6ENB2wqffj-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#23445D;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uBqx3M6_RT6ENB2wqffj-42" target="uBqx3M6_RT6ENB2wqffj-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="720.0000000000002" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="980" y="520" />
+              <mxPoint x="720" y="520" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uBqx3M6_RT6ENB2wqffj-42" value="游戏场景" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
