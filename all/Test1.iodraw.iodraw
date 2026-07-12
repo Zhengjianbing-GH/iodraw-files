@@ -181,13 +181,18 @@
         <mxCell id="uBqx3M6_RT6ENB2wqffj-52" value="接口&lt;div&gt;&lt;br&gt;&lt;b&gt;绘制方法&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="930" y="370" width="110" height="71" as="geometry" />
         </mxCell>
+        <mxCell id="uBqx3M6_RT6ENB2wqffj-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#23445D;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uBqx3M6_RT6ENB2wqffj-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uBqx3M6_RT6ENB2wqffj-54" value="蛇" style="html=1;whiteSpace=wrap;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1070" y="490" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uBqx3M6_RT6ENB2wqffj-55" value="食物" style="html=1;whiteSpace=wrap;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1070" y="564" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uBqx3M6_RT6ENB2wqffj-56" value="Object" style="html=1;whiteSpace=wrap;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uBqx3M6_RT6ENB2wqffj-56" value="墙壁" style="html=1;whiteSpace=wrap;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1070" y="640" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
