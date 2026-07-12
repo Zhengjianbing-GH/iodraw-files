@@ -179,7 +179,7 @@
           <mxGeometry y="112" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uBqx3M6_RT6ENB2wqffj-52" value="接口&lt;div&gt;&lt;br&gt;&lt;b&gt;绘制方法&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="900" y="370" width="110" height="71" as="geometry" />
+          <mxGeometry x="930" y="370" width="110" height="71" as="geometry" />
         </mxCell>
         <mxCell id="uBqx3M6_RT6ENB2wqffj-54" value="Object" style="html=1;whiteSpace=wrap;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1070" y="490" width="110" height="50" as="geometry" />
