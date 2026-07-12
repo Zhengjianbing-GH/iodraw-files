@@ -75,9 +75,7 @@
             <mxPoint x="390" y="531.43" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="390" y="511" />
-              <mxPoint x="730" y="511" />
-              <mxPoint x="730" y="541" />
-              <mxPoint x="720" y="541" />
+              <mxPoint x="720" y="511" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -159,7 +157,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uBqx3M6_RT6ENB2wqffj-42" value="游戏场景" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="910" y="480" width="140" height="138" as="geometry" />
+          <mxGeometry x="910" y="531" width="140" height="138" as="geometry" />
         </mxCell>
         <mxCell id="uBqx3M6_RT6ENB2wqffj-43" value="蛇" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" parent="uBqx3M6_RT6ENB2wqffj-42">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
