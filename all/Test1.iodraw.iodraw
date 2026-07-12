@@ -44,11 +44,6 @@
         <mxCell id="uBqx3M6_RT6ENB2wqffj-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontColor=#FFFFFF;" vertex="1" parent="uBqx3M6_RT6ENB2wqffj-16">
           <mxGeometry y="29.71428571428571" width="110" height="9.142857142857142" as="geometry" />
         </mxCell>
-        <mxCell id="uBqx3M6_RT6ENB2wqffj-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#23445D;" edge="1" parent="uBqx3M6_RT6ENB2wqffj-16" source="uBqx3M6_RT6ENB2wqffj-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55.24137931034488" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uBqx3M6_RT6ENB2wqffj-11" value="接口&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;游戏更新方法&lt;/div&gt;" style="html=1;whiteSpace=wrap;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;container=0;gradientColor=none;rounded=0;glass=0;" vertex="1" parent="uBqx3M6_RT6ENB2wqffj-16">
           <mxGeometry width="110" height="68.57142857142856" as="geometry">
             <mxRectangle width="110" height="60" as="alternateBounds" />
@@ -185,6 +180,9 @@
         </mxCell>
         <mxCell id="uBqx3M6_RT6ENB2wqffj-52" value="接口&lt;div&gt;&lt;br&gt;&lt;b&gt;绘制方法&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1070" y="370" width="110" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="uBqx3M6_RT6ENB2wqffj-54" value="Object" style="html=1;whiteSpace=wrap;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1040" y="520" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
