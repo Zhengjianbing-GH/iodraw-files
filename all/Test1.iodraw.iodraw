@@ -38,16 +38,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uBqx3M6_RT6ENB2wqffj-11" value="接口&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;游戏更新方法&lt;/div&gt;" style="html=1;whiteSpace=wrap;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;container=0;gradientColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="380" width="110" height="60" as="geometry">
-            <mxRectangle width="110" height="60" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uBqx3M6_RT6ENB2wqffj-16" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="370" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uBqx3M6_RT6ENB2wqffj-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontColor=#FFFFFF;" vertex="1" parent="uBqx3M6_RT6ENB2wqffj-16">
           <mxGeometry y="26" width="110" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="uBqx3M6_RT6ENB2wqffj-11" value="接口&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;游戏更新方法&lt;/div&gt;" style="html=1;whiteSpace=wrap;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;container=0;gradientColor=none;rounded=0;glass=0;" vertex="1" parent="uBqx3M6_RT6ENB2wqffj-16">
+          <mxGeometry width="110" height="60" as="geometry">
+            <mxRectangle width="110" height="60" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
